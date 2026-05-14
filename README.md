@@ -1,9 +1,15 @@
-# 🐉 Kali Linux Commands — Complete Guide (A to Z)
+<h2 align="center">🐉 Kali Linux Commands — Complete Guide (A to Z)</h2>
 
-> **লেখার উদ্দেশ্য:** এই ফাইলটা একবার পড়লেই Kali Linux-এর সব গুরুত্বপূর্ণ command সম্পর্কে crystal clear ধারণা হবে।
-> **ভাষা:** Bangla + English mixed
-> **⚠️ Disclaimer:** এই guide শুধু ethical hacking, CTF, এবং নিজের system test করার জন্য।
-> অন্যের system-এ permission ছাড়া ব্যবহার করা illegal।
+<p align="center">
+  <img src="https://i.postimg.cc/7LckrQzc/kali-linux-3840x2160-18059.jpg" alt="Kali Linux Banner">
+</p>
+
+---
+
+> **লেখার উদ্দেশ্য:** এই ফাইলটা একবার পড়লেই Kali Linux-এর সব গুরুত্বপূর্ণ command সম্পর্কে crystal clear ধারণা হবে।  
+> **ভাষা:** Bangla + English mixed  
+> **⚠️ Disclaimer:** এই guide শুধু ethical hacking, CTF, এবং নিজের system test করার জন্য।  
+> অন্যের system-এ permission ছাড়া ব্যবহার করা illegal।  
 
 ---
 
