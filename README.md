@@ -1852,7 +1852,7 @@ atrm 2                           # Job 2 remove
 
 ---
 
-## 📚 আরো শেখার জন্য
+## 📚 Resources for Further Learning
 
 ```
 🎓 Practice Platforms:
