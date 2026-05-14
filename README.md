@@ -8,7 +8,7 @@
 
 > **লেখার উদ্দেশ্য:** এই ফাইলটা একবার পড়লেই Kali Linux-এর সব গুরুত্বপূর্ণ command সম্পর্কে crystal clear ধারণা হবে।  
 > **ভাষা:** Bangla + English mixed  
-> **⚠️ Disclaimer:** এই guide শুধু ethical hacking, CTF, এবং নিজের system test করার জন্য।  
+> ⚠️ **Disclaimer:** এই guide শুধু ethical hacking, CTF, এবং নিজের system test করার জন্য।  
 > অন্যের system-এ permission ছাড়া ব্যবহার করা illegal।  
 
 ---
