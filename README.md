@@ -6,6 +6,27 @@
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali%20Linux-Commands-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-Terminal-black?style=for-the-badge&logo=linux">
+  <img src="https://img.shields.io/badge/Step--By--Step-Guide-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Ethical-Hacking-red?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/license/Shariar-Ahamed/kali-linux-command-guide">
+  <img src="https://img.shields.io/github/repo-size/Shariar-Ahamed/kali-linux-command-guide">
+  <img src="https://img.shields.io/github/last-commit/Shariar-Ahamed/kali-linux-command-guide">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Shariar-Ahamed/kali-linux-command-guide?style=social">
+  <img src="https://img.shields.io/github/forks/Shariar-Ahamed/kali-linux-command-guide?style=social">
+</p>
+
+
+---
+
 > **লেখার উদ্দেশ্য:** এই ফাইলটা একবার পড়লেই Kali Linux-এর সব গুরুত্বপূর্ণ command সম্পর্কে crystal clear ধারণা হবে।  
 > **ভাষা:** Bangla + English mixed  
 > **Disclaimer:** এই guide শুধু ethical hacking, CTF, এবং নিজের system test করার জন্য।  
