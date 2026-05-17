@@ -1,7 +1,7 @@
 <h2 align="center">🐉 Kali Linux Commands — Complete Guide (A to Z)</h2>
 
 <p align="center">
-  <img src="https://i.postimg.cc/7LckrQzc/kali-linux-3840x2160-18059.jpg" alt="Kali Linux Banner">
+  <img src="https://i.postimg.cc/vmpWQrBh/Kali-Cover.png" alt="Kali Linux Banner">
 </p>
 
 ---
