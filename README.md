@@ -24,6 +24,9 @@
   <img src="https://img.shields.io/github/forks/Shariar-Ahamed/kali-linux-command-guide?style=social">
 </p>
 
+<p align="center">
+<a href="https://wakatime.com/badge/user/c7433bc5-6f12-4c97-baea-430790fa608c/project/22f0852b-2377-43cf-af81-d671e5d41a71"><img src="https://wakatime.com/badge/user/c7433bc5-6f12-4c97-baea-430790fa608c/project/22f0852b-2377-43cf-af81-d671e5d41a71.svg" alt="wakatime"></a>
+</p>
 
 ---
 
