@@ -14,7 +14,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/Shariar-Ahamed/kali-linux-command-guide">
+  <img src="https://img.shields.io/badge/License-MIT-green.svg">
+  <!--- <img src="https://img.shields.io/github/license/Shariar-Ahamed/kali-linux-command-guide"> --->
   <img src="https://img.shields.io/github/repo-size/Shariar-Ahamed/kali-linux-command-guide">
   <img src="https://img.shields.io/github/last-commit/Shariar-Ahamed/kali-linux-command-guide">
 </p>
